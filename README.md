@@ -18,8 +18,6 @@ STORE/CLUB/NODE/DC Manager with this SmartMngrApp
 * [ ] Manage Department/Facility Managers
 * [ ] Search and mark eligible store/club as prefferred one.
 
-The app utilizes [GSF-GlobalStoreFinder REST APIs](https://tobe.done.com/rest/public).
-
 
 ## User Stories
 
