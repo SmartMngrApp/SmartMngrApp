@@ -2,7 +2,7 @@
 An App for Store Managers to Manage Calendar at store and department level.
 **SmartMngrApp** is an android app that allows a Business/Product Owner or STORE/CLUB/NODE/DC Manager 
 or Support Engineer to view store/club across the globe and to manage store/unit/department/facility level calendar details 
-which are utilized to drive in-store and online customers to shop and pick up the items at Walmart/Sams and affiliated locations 
+which are utilized to drive in-store and online customers to shop and pick up the items at specific customer pickable locations
 near to them. 
 
 Business Owners with this SmartMngrApp 
